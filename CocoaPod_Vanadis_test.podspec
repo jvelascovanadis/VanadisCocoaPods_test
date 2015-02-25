@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "CocoaPod_Vanadis_test"
-  s.version      = “0.0.2”
+  s.version      = "0.0.2"
   s.summary      = "A short description of CocoaPod_Vanadis_test dfsfdsfds fdsfdsfdsfds. M"
 
   s.description  = <<-DESC
@@ -78,7 +78,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/jvelascovanadis/VanadisCocoaPods_test.git", :tag => “0.0.2” }
+  s.source       = { :git => "https://github.com/jvelascovanadis/VanadisCocoaPods_test.git", :tag => "0.0.2" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
