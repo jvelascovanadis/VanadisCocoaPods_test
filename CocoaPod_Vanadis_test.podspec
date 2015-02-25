@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.name         = "CocoaPod_Vanadis_test"
   s.version      = "0.0.2"
-  s.summary      = "A short description of CocoaPod_Vanadis_test dfsfdsfds fdsfdsfdsfds. M"
+  s.summary      = "Usage of the first Cocoapod made by Vanadis"
 
   s.description  = <<-DESC
                    A longer description of CocoaPod_Vanadis_test in Markdown format.
@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
                    * Finally, don't worry about the indent, CocoaPods strips it!
                    DESC
 
-  s.homepage     = "http://EXAMPLE/CocoaPod_Vanadis_test"
+  s.homepage     = "http://www.vanadis.es"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
