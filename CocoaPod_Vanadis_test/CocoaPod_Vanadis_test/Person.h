@@ -11,5 +11,6 @@
 @interface Person : NSObject
 
 + (void) salute;
++ (void) bye;
 
 @end
