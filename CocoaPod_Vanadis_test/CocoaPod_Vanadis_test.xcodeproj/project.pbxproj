@@ -21,6 +21,7 @@
 /* End PBXAggregateTarget section */
 
 /* Begin PBXBuildFile section */
+		F14F74E71A9E28DE00E2D263 /* License.txt in Resources */ = {isa = PBXBuildFile; fileRef = F14F74E61A9E28DE00E2D263 /* License.txt */; };
 		F1D225701A9E0B6300EE806B /* CocoaPod_Vanadis_test.h in Headers */ = {isa = PBXBuildFile; fileRef = F1D2256F1A9E0B6300EE806B /* CocoaPod_Vanadis_test.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F1D225761A9E0B6500EE806B /* CocoaPod_Vanadis_test.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F1D2256A1A9E0B6300EE806B /* CocoaPod_Vanadis_test.framework */; };
 		F1D2257D1A9E0B6500EE806B /* CocoaPod_Vanadis_testTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F1D2257C1A9E0B6500EE806B /* CocoaPod_Vanadis_testTests.m */; };
@@ -39,6 +40,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		F14F74E61A9E28DE00E2D263 /* License.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = License.txt; path = ../License.txt; sourceTree = "<group>"; };
 		F1D2256A1A9E0B6300EE806B /* CocoaPod_Vanadis_test.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = CocoaPod_Vanadis_test.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F1D2256E1A9E0B6300EE806B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F1D2256F1A9E0B6300EE806B /* CocoaPod_Vanadis_test.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CocoaPod_Vanadis_test.h; sourceTree = "<group>"; };
@@ -71,6 +73,7 @@
 		F1D225601A9E0B6300EE806B = {
 			isa = PBXGroup;
 			children = (
+				F14F74E61A9E28DE00E2D263 /* License.txt */,
 				F1D2256C1A9E0B6300EE806B /* CocoaPod_Vanadis_test */,
 				F1D225791A9E0B6500EE806B /* CocoaPod_Vanadis_testTests */,
 				F1D2256B1A9E0B6300EE806B /* Products */,
@@ -217,6 +220,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F14F74E71A9E28DE00E2D263 /* License.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -468,6 +472,7 @@
 				F1D2258D1A9E16DF00EE806B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
